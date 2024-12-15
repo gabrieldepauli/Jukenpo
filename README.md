@@ -21,4 +21,5 @@ O projeto do Jukenpo foi criado por Gabriel de Pauli Santos, aluno do curso de A
 ### Sobre o Projeto ℹ
 
 Este projeto é uma aplicação Android (Mobile) com o objetivo de criar uma aplicação Android que simule um jogo de Jukenpo. Onde o usuário poderá optar pela opção de jogar entre dois players ou um único player.
-No caso de optar por jogar apenas com um player, automaticamente é definido um bot que fará as funções de um player 2, fazendo com que o usuário jogue contra a máquina.
+
+**Obs:** No caso de optar por jogar apenas com um player, automaticamente é definido um bot que fará as funções de um player 2, fazendo com que o usuário jogue contra a máquina.
